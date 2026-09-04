@@ -39,24 +39,24 @@ valor_kwh → R$ 0,79 (preço ENEL - concessionária local)</br>
 
 **Entrada:**
 
-Qual o nome do aparelho: Geladeira
-Qual a potência do aparelho: 150
-Qual o tempo médio de uso: 8
+Qual o nome do aparelho: Geladeira </br>
+Qual a potência do aparelho: 150 </br>
+Qual o tempo médio de uso: 8 </br>
 
 **Processamento:**
 
 O programa calcula o consumo mensal usando a fórmula:
 
-consumo_mensal = (150 * 8 * 30) / 1000  # 36.0 kWh/mês
-custo_estimado = 36.0 * 0.79             # R$ 28.44
+consumo_mensal = (150 * 8 * 30) / 1000   → # 36.0 kWh/mês </br>
+custo_estimado = 36.0 * 0.79             → # R$ 28.44 </br>
 
 **Saída:**
 
-Aparelho: Geladeira
-Potência: 150 W
-Uso diário: 8.0 horas
-Consumo estimado: 36.0 kWh/mês
-Custo estimado: R$ 28.44/mês
+Aparelho: Geladeira </br>
+Potência: 150 W </br>
+Uso diário: 8.0 horas </br>
+Consumo estimado: 36.0 kWh/mês </br>
+Custo estimado: R$ 28.44/mês </br>
 
 ## 👤 Autor 
 
